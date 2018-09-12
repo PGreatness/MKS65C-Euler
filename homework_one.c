@@ -1,3 +1,8 @@
+//Ahnaf Hasan
+//Systems pd10
+//9/10/18
+//Work#01 -- First C Program
+
 #include <stdio.h>
 //Problem 1
 /*
